@@ -1,6 +1,6 @@
 ### Hi there 👋
 <details>
-<summary>### About Me</summary>
+<summary>About Me</summary>
 Passionate about games, I'm balancing my role in game development as a programmer and a 2D artist! 
 </details>
 #### Current Projects
