@@ -1,9 +1,15 @@
-###### About Me
-Passionate about games, I'm balancing my role in game development as a programmer and a 2D artist! 
+### About Me
+Frontend developer that enjoys making UI/UX elements and web design. Also small time game developer who loves RPGs, visual novels, and indie games with game mechanics that tell story. And when I'm not coding, I'm drawing! 
 
-###### Current Projects
+### Languages
+- Javscript/Typescript
+- Python
+- HTML
+- CSS
+
+### Current Projects
 <details>
-<summary>Current Project 1</summary>
+<summary>Campus Geoguesser</summary>
 A geoguessing game
 </details>
 
