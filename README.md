@@ -1,4 +1,9 @@
 ### Hi there 👋
+<details>
+<summary>### About Me</summary>
+Passionate about games, I'm balancing my role in game development as a programmer and a 2D artist! 
+</details>
+#### Current Projects
 
 <!--
 **katruong855/katruong855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
