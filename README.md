@@ -1,5 +1,5 @@
 ### About Me
-Frontend developer that enjoys making UI/UX elements and web design. Also small time game developer who loves RPGs, visual novels, and indie games with game mechanics that tell story. And when I'm not coding, I'm drawing! 
+Frontend developer that enjoys making UI/UX elements and web design. Also small time game developer who loves RPGs, visual novels, and indie games with game mechanics that tell story. When I'm not coding, I'm drawing! 
 
 ### Languages
 - Javscript/Typescript
